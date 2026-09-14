@@ -33,6 +33,7 @@ Vanilla JavaScript, HTML5/CSS3, SheetJS (XLSX parsing), Chart.js (data viz), jsP
 ## Automated Excel-based quotation & size calculator
 
 📊 Description
+
 Automated Excel-based quotation & size calculator built for Gayatri Industries (porta cabin manufacturer) that instantly generates client-ready quotations, GST-compliant pricing, and technical specs from just three dropdown inputs (Length, Width, Height).
 
 ⚙️ Key Features
@@ -44,6 +45,7 @@ Built-in furniture & custom table price sub-calculator (rate/foot logic by dimen
 Embedded technical specification sheet + terms & conditions for print-ready quotes
 
 🛠️ Tech Stack
+
 Excel — VLOOKUP, INDEX-MATCH, Array Formulas, Nested IF/AND Logic, Data Validation, Named Ranges
 
 📈 Output / Metrics
