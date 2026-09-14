@@ -1,4 +1,4 @@
-# Gayatri Industries — Cabin Order Management System
+# Gayatri Industries — Cabin Order Processing System
 
 ## Description
 A multi-step web application (HTML/CSS/JS + Google Apps Script) that digitizes cabin order intake for a porta cabin manufacturing business — replacing fully manual, paper-based order forms with a guided 9-step digital workflow covering fabrication, carpentry, electrical, paint, washroom, furniture, and accessories.
