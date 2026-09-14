@@ -29,3 +29,26 @@ Vanilla JavaScript, HTML5/CSS3, SheetJS (XLSX parsing), Chart.js (data viz), jsP
 - Processes 5,000+ purchase records across 100+ vendors per run
 - Flagged ₹15,000–20,000 in rate overpayments across 10-12 vendors via automated alerts
 - Replaced a manual, ad-hoc rate-checking process with zero prior anomaly detection
+
+## Automated Excel-based quotation & size calculator
+
+📊 Description
+Automated Excel-based quotation & size calculator built for Gayatri Industries (porta cabin manufacturer) that instantly generates client-ready quotations, GST-compliant pricing, and technical specs from just three dropdown inputs (Length, Width, Height).
+
+⚙️ Key Features
+
+Dropdown-driven L/W/H selector auto-computes Overall Size & Cabin Clear Size
+Dynamic multi-tier rate engine (6 conditional pricing bands) with height-based rate multipliers (+8% / +12%)
+Auto-generated line items, subtotal, discount, SGST/UTGST/IGST split, and Grand Total
+Built-in furniture & custom table price sub-calculator (rate/foot logic by dimension)
+Embedded technical specification sheet + terms & conditions for print-ready quotes
+
+🛠️ Tech Stack
+Excel — VLOOKUP, INDEX-MATCH, Array Formulas, Nested IF/AND Logic, Data Validation, Named Ranges
+
+📈 Output / Metrics
+
+1,249+ pre-mapped cabin size combinations (15'–40' L × 5'–20' W)
+1,396-row automated rate lookup table across 6 pricing conditions
+Cuts quotation turnaround from ~20 min (manual) to under 2 min
+100% formula-driven pricing & tax computation — zero manual calc errors
